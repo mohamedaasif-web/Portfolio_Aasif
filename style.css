@@ -507,21 +507,23 @@ textarea {
         padding: 5rem 2rem 3rem;
         min-height: auto;
     }
+
     .contact-box {
         padding: 24px 20px;
         width: 50rem;
     }
 }
-@media (max-width: 1440px)
-{
+
+@media (max-width: 1440px) {
     .home {
         padding: 5rem 2rem 3rem;
         min-height: auto;
     }
-        .contact-box {
-            padding: 24px 20px;
-            width: 50rem;
-        }
+
+    .contact-box {
+        padding: 24px 20px;
+        width: 50rem;
+    }
 }
 
 /* =====================
@@ -548,7 +550,7 @@ textarea {
         gap: 1.5rem;
     }
 
-<<<<<<< HEAD
+
     /* Hero image - Mobile-ல் பெரிசா (170px → 230px) */
     .free-image {
         width: 230px;
@@ -571,121 +573,122 @@ textarea {
 
     .home-content p {
         font-size: 0.8rem;
-=======
-    .free-image {
-        width: 170px;
-        height: 170px;
-        border-width: 4px;
-    }
 
-    .name {
-        font-size: 1.5rem;
-    }
+        .free-image {
+            width: 170px;
+            height: 170px;
+            border-width: 4px;
+        }
 
-    .typing-text {
-        font-size: 1.1rem;
-    }
+        .name {
+            font-size: 1.5rem;
+        }
 
-    .typing-text span {
-        font-size: 15px;
-    }
+        .typing-text {
+            font-size: 1.1rem;
+        }
 
-    .home-content p {
-        font-size: 0.95rem;
->>>>>>> d7f80516d9b2ef56447e2e0b2203d96685934751
-    }
+        .typing-text span {
+            font-size: 15px;
+        }
 
-    .social-icons {
-        justify-content: center;
-        gap: 1rem;
-    }
+        .home-content p {
+            font-size: 0.95rem;
 
-    .social-icons a {
-        width: 32px;
-        height: 32px;
-        font-size: 1.1rem;
-    }
+        }
 
-    .heading {
-        font-size: 1.5rem;
-        margin-bottom: 2rem;
-    }
+        .social-icons {
+            justify-content: center;
+            gap: 1rem;
+        }
 
-    .skills {
-        padding: 3rem 0;
-    }
+        .social-icons a {
+            width: 32px;
+            height: 32px;
+            font-size: 1.1rem;
+        }
 
-    .skills-container {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 1rem;
-        margin-top: 2rem;
-    }
+        .heading {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+        }
 
-    .skill-box {
-        padding: 1.2rem 0.8rem;
-    }
+        .skills {
+            padding: 3rem 0;
+        }
 
-    .skill-box i {
-        font-size: 2.5rem;
-    }
+        .skills-container {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin-top: 2rem;
+        }
 
-    .skill-box h3 {
-        font-size: 1rem;
-    }
+        .skill-box {
+            padding: 1.2rem 0.8rem;
+        }
 
-    .projects-container {
-        grid-template-columns: 1fr;
-    }
+        .skill-box i {
+            font-size: 2.5rem;
+        }
 
-    .project-box {
-        padding: 1.2rem;
-    }
+        .skill-box h3 {
+            font-size: 1rem;
+        }
 
-    .project-box h3 {
-        font-size: 1.2rem;
-    }
+        .projects-container {
+            grid-template-columns: 1fr;
+        }
 
-    .project-img {
-        height: 150px;
-    }
+        .project-box {
+            padding: 1.2rem;
+        }
 
-    .btn {
-        padding: 0.65rem 1.2rem;
-        font-size: 0.9rem;
-    }
+        .project-box h3 {
+            font-size: 1.2rem;
+        }
 
-    .explore {
-        margin-top: 2rem;
-        width: 100%;
-        text-align: center;
-    }
+        .project-img {
+            height: 150px;
+        }
 
-    .contact {
-        padding: 30px 16px;
-        min-height: auto;
-       
-    }
+        .btn {
+            padding: 0.65rem 1.2rem;
+            font-size: 0.9rem;
+        }
 
-    .contact-box {
-        max-width: 95%;
-        padding: 20px 16px;
-        border-radius: 10px;
-        width: 20rem;
-    }
+        .explore {
+            margin-top: 2rem;
+            width: 100%;
+            text-align: center;
+        }
 
-    .contact-box h2 {
-        font-size: 1.4rem;
-        margin-bottom: 18px;
-    }
+        .contact {
+            padding: 30px 16px;
+            min-height: auto;
 
-    .field input,
-    .field textarea {
-        font-size: 0.85rem;
-        padding: 10px;
-    }
+        }
 
-    .sendmsg {
-        font-size: 0.95rem;
+        .contact-box {
+            max-width: 95%;
+            padding: 20px 16px;
+            border-radius: 10px;
+            width: 20rem;
+        }
+
+        .contact-box h2 {
+            font-size: 1.4rem;
+            margin-bottom: 18px;
+        }
+
+        .field input,
+        .field textarea {
+            font-size: 0.85rem;
+            padding: 10px;
+        }
+
+        .sendmsg {
+            font-size: 0.95rem;
+        }
     }
 }
 
