@@ -551,14 +551,14 @@ textarea {
     }
 
 
-    /* Hero image - Mobile-ல் பெரிசா (170px → 230px) */
+   
     .free-image {
         width: 230px;
         height: 230px;
         border-width: 4px;
     }
 
-    /* Content font-size குறைக்கப்பட்டது */
+    
     .name {
         font-size: 1.2rem;
     }
@@ -573,123 +573,124 @@ textarea {
 
     .home-content p {
         font-size: 0.8rem;
-
-        .free-image {
-            width: 170px;
-            height: 170px;
-            border-width: 4px;
-        }
-
-        .name {
-            font-size: 1.5rem;
-        }
-
-        .typing-text {
-            font-size: 1.1rem;
-        }
-
-        .typing-text span {
-            font-size: 15px;
-        }
-
-        .home-content p {
-            font-size: 0.95rem;
-
-        }
-
-        .social-icons {
-            justify-content: center;
-            gap: 1rem;
-        }
-
-        .social-icons a {
-            width: 32px;
-            height: 32px;
-            font-size: 1.1rem;
-        }
-
-        .heading {
-            font-size: 1.5rem;
-            margin-bottom: 2rem;
-        }
-
-        .skills {
-            padding: 3rem 0;
-        }
-
-        .skills-container {
-            grid-template-columns: repeat(2, 1fr);
-            gap: 1rem;
-            margin-top: 2rem;
-        }
-
-        .skill-box {
-            padding: 1.2rem 0.8rem;
-        }
-
-        .skill-box i {
-            font-size: 2.5rem;
-        }
-
-        .skill-box h3 {
-            font-size: 1rem;
-        }
-
-        .projects-container {
-            grid-template-columns: 1fr;
-        }
-
-        .project-box {
-            padding: 1.2rem;
-        }
-
-        .project-box h3 {
-            font-size: 1.2rem;
-        }
-
-        .project-img {
-            height: 150px;
-        }
-
-        .btn {
-            padding: 0.65rem 1.2rem;
-            font-size: 0.9rem;
-        }
-
-        .explore {
-            margin-top: 2rem;
-            width: 100%;
-            text-align: center;
-        }
-
-        .contact {
-            padding: 30px 16px;
-            min-height: auto;
-
-        }
-
-        .contact-box {
-            max-width: 95%;
-            padding: 20px 16px;
-            border-radius: 10px;
-            width: 20rem;
-        }
-
-        .contact-box h2 {
-            font-size: 1.4rem;
-            margin-bottom: 18px;
-        }
-
-        .field input,
-        .field textarea {
-            font-size: 0.85rem;
-            padding: 10px;
-        }
-
-        .sendmsg {
-            font-size: 0.95rem;
-        }
     }
+
+    .free-image {
+        width: 170px;
+        height: 170px;
+        border-width: 4px;
+    }
+
+    .name {
+        font-size: 1.5rem;
+    }
+
+    .typing-text {
+        font-size: 1.1rem;
+    }
+
+    .typing-text span {
+        font-size: 15px;
+    }
+
+    .home-content p {
+        font-size: 0.95rem;
+
+    }
+
+    .social-icons {
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .social-icons a {
+        width: 32px;
+        height: 32px;
+        font-size: 1.1rem;
+    }
+
+    .heading {
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .skills {
+        padding: 3rem 0;
+    }
+
+    .skills-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+        margin-top: 2rem;
+    }
+
+    .skill-box {
+        padding: 1.2rem 0.8rem;
+    }
+
+    .skill-box i {
+        font-size: 2.5rem;
+    }
+
+    .skill-box h3 {
+        font-size: 1rem;
+    }
+
+    .projects-container {
+        grid-template-columns: 1fr;
+    }
+
+    .project-box {
+        padding: 1.2rem;
+    }
+
+    .project-box h3 {
+        font-size: 1.2rem;
+    }
+
+    .project-img {
+        height: 150px;
+    }
+
+    .btn {
+        padding: 0.65rem 1.2rem;
+        font-size: 0.9rem;
+    }
+
+    .explore {
+        margin-top: 2rem;
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact {
+        padding: 30px 16px;
+        min-height: auto;
+
+    }
+
+    .contact-box {
+        max-width: 95%;
+        padding: 20px 16px;
+        border-radius: 10px;
+        width: 20rem;
+    }
+
+    .contact-box h2 {
+        font-size: 1.4rem;
+        margin-bottom: 18px;
+    }
+
+    .field input,
+    .field textarea {
+        font-size: 0.85rem;
+        padding: 10px;
+    }
+
+    .sendmsg {
+        font-size: 0.95rem;
+    }
+
 }
 
 /* =====================
