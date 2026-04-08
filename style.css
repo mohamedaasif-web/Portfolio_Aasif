@@ -548,6 +548,7 @@ textarea {
         gap: 1.5rem;
     }
 
+<<<<<<< HEAD
     /* Hero image - Mobile-ல் பெரிசா (170px → 230px) */
     .free-image {
         width: 230px;
@@ -570,6 +571,28 @@ textarea {
 
     .home-content p {
         font-size: 0.8rem;
+=======
+    .free-image {
+        width: 170px;
+        height: 170px;
+        border-width: 4px;
+    }
+
+    .name {
+        font-size: 1.5rem;
+    }
+
+    .typing-text {
+        font-size: 1.1rem;
+    }
+
+    .typing-text span {
+        font-size: 15px;
+    }
+
+    .home-content p {
+        font-size: 0.95rem;
+>>>>>>> d7f80516d9b2ef56447e2e0b2203d96685934751
     }
 
     .social-icons {
