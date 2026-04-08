@@ -65,6 +65,7 @@ section {
     flex: 1;
     text-align: center;
     min-width: 200px;
+
 }
 
 .free-image {
@@ -547,26 +548,28 @@ textarea {
         gap: 1.5rem;
     }
 
+    /* Hero image - Mobile-ல் பெரிசா (170px → 230px) */
     .free-image {
-        width: 170px;
-        height: 170px;
+        width: 230px;
+        height: 230px;
         border-width: 4px;
     }
 
+    /* Content font-size குறைக்கப்பட்டது */
     .name {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .typing-text {
-        font-size: 1.1rem;
+        font-size: 0.95rem;
     }
 
     .typing-text span {
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .home-content p {
-        font-size: 0.95rem;
+        font-size: 0.8rem;
     }
 
     .social-icons {
